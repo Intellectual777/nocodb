@@ -1,3 +1,4 @@
+packages/nc-gui/assets/img/dashboards/widget-types/button.svg
 files:
   - source: /packages/nc-gui/lang/en.json
     translation: /packages/nc-gui/lang/%osx_locale%.json
