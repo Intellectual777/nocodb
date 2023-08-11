@@ -76,6 +76,7 @@ You can run the below command if you need an interactive configuration.
 npx create-nocodb-app
 ```
 
+
 <img src="https://user-images.githubusercontent.com/35857179/163672964-00ef5d62-0434-447d-ac01-3ebb780099b9.png" width="520px"/>
 
 ## Node Application
